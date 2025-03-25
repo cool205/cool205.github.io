@@ -1,0 +1,1 @@
+pip install flask keyboard mouse screeninfo pynput
